@@ -1,0 +1,20 @@
+Mohamed BensalehCMPT 145 A9 commit logsMob127112540302019-07-3112:22	17:03	19 files committed: Initial Commit for Assignment 9.
+
+12:29	1 file committed: Transcribed the node-based Stack ADT (NStack) in to OO-		style(Q1).
+
+14:45	1 file committed: Fixed bugs in to_string function in the node-based Stack ADT 		(NStack)
+
+17:06	1 file committed: Transcribed the node-based Queue ADT (NQueue) into OO-style 		(Q1).
+
+17:58	1 file committed: Fixed bug in the dequeue() function in the node-based Queue ADT 	(NQueue)2019-08-112:26	1 file committed: Implemented the super-class Container.
+
+13:20	1 file committed: Rewrote the Object Oriented Stack class so that it inherits all 	the Container attributes (Q2).
+
+14:58	1 file committed: Rewrote the Object Oriented Queue class so that it inherits all 	the Container attributes (Q2).
+
+16:22	1 file committed: Added method called drop_lowest(grades) to StudentRecord (Q3)
+
+17:00	1 file committed: fixed bug in drop_lowest(grades) (Q3).
+
+19:24	1 file committed: Added python code to end of script to calculate class average 	before and after dropping lowest marks. (Q3)
+
